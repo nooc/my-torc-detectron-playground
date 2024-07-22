@@ -1,4 +1,6 @@
-# sam-climbing-holds
-segment anything model test
+# My Torc/Detectron2 Playground
 
-Trying out https://blog.roboflow.com/how-to-use-segment-anything-model-sam/
+
+## Resources
+
+* https://blog.roboflow.com/how-to-use-segment-anything-model-sam/
